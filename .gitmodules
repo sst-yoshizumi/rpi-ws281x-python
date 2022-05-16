@@ -1,4 +1,4 @@
 [submodule "library/lib"]
 	path = library/lib
 url=https://github.com/sst-yoshizumi/rpi_ws281x.git
-	branch = master
+	branch = SmartLifeWG
